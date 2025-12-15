@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew assembleDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/kotlin-snake-game-186548-186557/snake_game_frontend"
+}
